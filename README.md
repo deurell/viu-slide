@@ -32,5 +32,8 @@ Simple Bash wrapper around [`viu`](https://github.com/atanunq/viu) that turns an
 
 # Force block output inside tmux and slow down GIF playback
 ./viu-slide.sh ./gifs -b -- -f 10
+
 ```
 
+## License
+MIT License — see `LICENSE` for details.
